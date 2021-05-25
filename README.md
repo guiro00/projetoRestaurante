@@ -20,6 +20,17 @@
 Sistema feito para um restaurante, esse sistema tem 4 anos de criação, foi feito por mim e por um amigo meu argentino que iniciamos o projeto. E nos momentos atuais e eu dei uma melhorada nele e dei uma outra personalisada em seu visual
 pois arrumei alguns detalhes que faltava nele e fiz algumas atualizações
 
+
+O que contém no sistema?
+
+-Cadastramento de produtos
+-Edição de produtos
+-Exclusão de produtos
+-Agendamento de horários e reservas de mesas
+-Relatório de entradas e saídas de produtos
+-Relatórios de entradas e saídas de capital
+- e outras coisas...
+
 funções corrigidas:
 
 - Valores dos produtos
